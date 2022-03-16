@@ -10,3 +10,5 @@ Lorenzo es alto
 ultimo cambio a las 10:48
 
 estado staging 1108
+
+cambio desde footer
